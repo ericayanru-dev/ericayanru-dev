@@ -17,7 +17,7 @@
 ## 🧰 Tech Stack
 **Languages & Runtime:** C#/.NET • TypeScript • Python • JavaScript • Express.js • Next.js • Context API  
 **Databases & Data Systems:** PostgreSQL • MySQL • MongoDB
-**Cloud & DevOps:** AWS • Azure • Google Cloud • Docker • CI/CD pipelines 
+**Cloud & DevOps:** Loading....
 **Frontend & UI:** React • HTML5 • CSS3 • TailwindCSS • Bootstrap  
 **Other Tools & Practices:** Git/GitHub • Microservices • API Design • RESTful Services • TDD  
 
