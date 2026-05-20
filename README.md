@@ -1,16 +1,49 @@
-## Hi there 👋
+# Eric [he/him]  
+**Software Engineer • Full-Stack Development**  
 
-<!--
-**ericayanru-dev/ericayanru-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍 Location: Warri, Delta State, Nigeria  
+🔗 Portfolio: Loading.....
+💼 LinkedIn: https://github.com/ericayanru-dev 
+📧 Email: ericayanru@outlook.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build and optimize backend services and APIs  
+- Design event-driven and distributed systems
+
+---
+
+## 🧰 Tech Stack
+**Languages & Runtime:** C#/.NET • TypeScript • Python • JavaScript • Express.js • Next.js • Context API  
+**Databases & Data Systems:** PostgreSQL • MySQL • MongoDB
+**Cloud & DevOps:** AWS • Azure • Google Cloud • Docker • CI/CD pipelines 
+**Frontend & UI:** React • HTML5 • CSS3 • TailwindCSS • Bootstrap  
+**Other Tools & Practices:** Git/GitHub • Microservices • API Design • RESTful Services • TDD  
+
+---
+
+## 🌟 Highlights
+- Strong testing culture (xUnit, Jest, PyTest)  
+
+---
+
+## 🧩 Featured Projects
+- **Project A** — Loading ....
+
+---
+
+## ✍️ Writing
+- Blog posts: https://medium.com/@ericayanru_dev 
+
+---
+
+## 🤝 Connect
+- GitHub: https://github.com/ericayanru-dev 
+- LinkedIn: https://www.linkedin.com/in/ericayanru/
+- Portfolio: Loading....
+- Email: ericayanru@outlook.com
+
+---
+
+> “Building scalable systems with clean architecture and modern stacks.”
