@@ -15,10 +15,16 @@
 ---
 
 ## 🧰 Tech Stack
-**Languages & Runtime:** C#/.NET • TypeScript • Python • JavaScript • Express.js • Next.js • Context API  
+**Languages & Runtime:** TypeScript • Python • JavaScript • C#/.NET 
+
 **Databases & Data Systems:** PostgreSQL • MySQL • MongoDB
-**Cloud & DevOps:** Loading....
+
+**Frameworks & Tools:** Express.js • Next.js • Context API • 
+
+**Cloud & DevOps:** Azure • Render
+
 **Frontend & UI:** React • HTML5 • CSS3 • TailwindCSS • Bootstrap  
+
 **Other Tools & Practices:** Git/GitHub • Microservices • API Design • RESTful Services • TDD  
 
 ---
