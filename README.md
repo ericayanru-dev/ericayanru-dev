@@ -30,7 +30,7 @@
 ---
 
 ## 🌟 Highlights
-- Strong testing culture (xUnit, Jest, PyTest)  
+- Strong testing culture (Jest, PyTest)  
 
 ---
 
