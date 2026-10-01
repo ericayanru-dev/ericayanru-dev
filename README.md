@@ -35,7 +35,9 @@
 ---
 
 ## 🧩 Featured Projects
-- **Project A** — Loading ....
+- **Project A** — https://creators-command-center.ericayanru.workers.dev/
+- **Project B** — https://nachas.agency/
+- **Project C** — Loading ....
 
 ---
 
