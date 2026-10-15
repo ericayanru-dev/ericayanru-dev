@@ -21,7 +21,7 @@
 
 **Frameworks & Tools:** Express.js • Next.js • Context API • 
 
-**Cloud & DevOps:** Azure • Render
+**Cloud & DevOps:** Azure • Render • Cloudflare • Vercel
 
 **Frontend & UI:** React • HTML5 • CSS3 • TailwindCSS • Bootstrap  
 
