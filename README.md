@@ -36,8 +36,8 @@
 
 ## 🧩 Featured Projects
 - **Project A** — [Theeliteglam.com](https://theeliteglam.com/)
-- **Project B** — https://autmint.com/
-- **Project C** — https://nachas.agency/
+- **Project B** — [autmint.com](https://autmint.com/)
+- **Project C** — [nachas.agency](https://nachas.agency/)
 - **Project D** — https://creators-command-center.ericayanru.workers.dev/
 - **Project E** — Loading ....
 
